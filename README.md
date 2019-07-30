@@ -16,7 +16,7 @@ This concepts can be applicable to wallets per se, exchanges, point-of-sales, me
 
 ## Value
 
-- Decimals
+- Notations and Decimals
 - Denominations
 - Localizations
 
