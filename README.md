@@ -1,4 +1,4 @@
-# wallet design guidlines
+# wallet design guidelines
 This document is open source, fork-able, copy-able and free. It is a set of guidelines, principles and best practices for Bitcoin Wallets. They should not be taken as rules or set in stone, iteration, innovation and heavy changes are expected and welcome.
 
 A wallet is the Graphic User Interface of the Bitcoin Protocol, where users interact with the network. 
